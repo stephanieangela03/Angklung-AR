@@ -18,4 +18,4 @@ Immerse yourself in the rich cultural heritage of Indonesia with the Angklung AR
 ## Usage
 * Point your device's camera at a designated marker to view the 3D angklung model in AR.
 
-Download large file (Vuforia Engine) on: https://drive.google.com/file/d/1r-s3N28VEvjPNqHf53CXZcIEWR0L1Zs6/view?usp=sharing 
+Download large file (Vuforia Engine) that are not included in this Github repository link: https://drive.google.com/file/d/1r-s3N28VEvjPNqHf53CXZcIEWR0L1Zs6/view?usp=sharing 
