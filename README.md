@@ -1,4 +1,4 @@
-# Angklung AR App
+# Angklung AR
 Immerse yourself in the rich cultural heritage of Indonesia with the Angklung AR App! This Angklung AR application allows users to scan markers and see realistic 3D angklung models using Unity and Vuforia.
 
 ## Features
